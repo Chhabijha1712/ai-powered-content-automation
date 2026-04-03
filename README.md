@@ -1,6 +1,6 @@
 # 🤖 AI-Powered Content Automation Engine (n8n + Gemini AI)
 
-A robust, production-ready automation workflow that manages end-to-end social media content scheduling. It fetches data from **Google Sheets**, generates context-aware captions using **Google Gemini 1.5 Flash**, and distributes posts to **Telegram** and **Discord** based on pre-defined schedules.
+A robust, production-ready automation workflow that manages end-to-end social media content scheduling. It fetches data from **Google Sheets**, generates context-aware captions using **Google Gemini 2.5 Flash**, and distributes posts to **Telegram** and **Discord** based on pre-defined schedules.
 
 ---
 
